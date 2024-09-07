@@ -1,23 +1,41 @@
 # RESUME-CONTENT-EXTRACTION-FROM-PDF
 The project implements a multi-step algorithm to accurately extract structured information from resumes, focusing on key sections such as Personal Data, Contact Information, Professional Summary, Experience, Education, Skills, and Certifications.
+
 Key Features:
+
 Extracts essential resume data: Captures personal details, professional summaries, work experience, educational qualifications, skills, and certifications.
+
 Handles unstructured text: Cleans and structures data from messy, unstructured PDF documents.
+
 Flexible email extraction: Corrects email addresses with extra prefixes or formatting issues.
+
 Technologies, Libraries, and Algorithms Used:
 Technologies:
+
 Python: Core programming language used for the entire project.
+
 PyPDF2: Used for extracting text from PDF files.
+
 spaCy: A Natural Language Processing (NLP) library used for identifying and extracting named entities such as person names.
+
 Libraries:
+
 PyPDF2: For extracting and reading the textual content of PDFs.
+
 spaCy: For NLP tasks like recognizing named entities (e.g., names, locations) from unstructured text.
+
 re (regex): For pattern matching, especially for extracting email addresses, phone numbers, and other structured data.
+
 json: For saving the extracted structured data in a JSON format.
+
 Algorithms:
+
 Regular Expressions (regex): Used extensively for extracting specific patterns like emails, phone numbers, and section headers from the raw text.
+
 NLP Techniques: Leveraged spaCy’s entity recognition to identify and extract the name and potentially other structured data from the PDF.
+
 PDF Text Extraction: Using PyPDF2 to handle the variability of text layout in PDF files.
+
 1. Text Extraction:
 Input: A resume in PDF format.
 Process:
