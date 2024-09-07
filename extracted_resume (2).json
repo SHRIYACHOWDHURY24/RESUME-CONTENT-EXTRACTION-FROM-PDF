@@ -1,0 +1,44 @@
+{
+    "PersonalData": {
+        "Name": "Shriya Chowdhury",
+        "ContactInformation": {
+            "Email": "Singleshriyachowdhury24@gmail.com",
+            "Phone": "+919330563437"
+        },
+        "ProfessionalSummary": "I am a pre-final year undergraduate student at VIT, Vellore pursuing B.Tech in Electronics and Communication Engineering. My primary areas of interest are Machine Learning, Data Science and Internet of Things. I have worked as a Product Design Intern and a Machine Learning Intern, which required me to polish my skills in Arduino Programming, building Deep Learning Models such as a Convolutional Neural Network Architecture for Binary Classification, Machine Learning Regression Models for Predicting House Prices, Image Processing and Optical Character Recognition for Text Feature Extraction, Relational Database Management using SQL and Natural Language Processing to build a Stacking Classifier for Fake News Prediction Modelling. Having been someone who loves continuous learning, I have always wanted to explore the horizons of technology."
+    },
+    "Experience": [
+        "2023/10 \u2013 2023/12 Machine Learning Project Lead",
+        "YMoney, Microsecond Market",
+        "Project Lead in the compnay's Machine Learning and Computer Vision division involved",
+        "working on an Automatic Robotic Classifier for use in Data Warehousing. The classifier used a",
+        "trained Object Detection model in YOLOV8 to identify barcodes, qrcodes and text information",
+        "on the label of the package and then further extract the textual information on the package",
+        "using Optical Character Recognition.",
+        "2023/08 \u2013 2023/09",
+        "Kolkata, IndiaProduct Design Intern",
+        "Centre for Development of Advanced Computing",
+        "Modelled a microcontroller based water dispensing system for automated tea tasting procedure",
+        "using Atmega328P microcontroller embedded in Arduino Uno R3 board.",
+        "2023/07 \u2013 2023/08 Machine Learning Intern",
+        "Fox Trading Solutions",
+        "Built a convolutional neural network model for binary classification using tensorflow and keras",
+        "libraries in python."
+    ],
+    "Education": [
+        "B.Tech"
+    ],
+    "Skills": [
+        "Python",
+        "Java",
+        "Machine Learning",
+        "Data Science",
+        "AI",
+        "Deep Learning",
+        "NLP"
+    ],
+    "Certifications": [
+        "Certificates",
+        "Microsoft Certified : Azure AI Fundamentals"
+    ]
+}
